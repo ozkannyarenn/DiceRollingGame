@@ -1,4 +1,4 @@
-package caseStudy;
+package CaseStudy;
 
 import java.util.Scanner;
 import java.util.Random;
